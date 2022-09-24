@@ -52,5 +52,7 @@ manage.py
 .DS_Store
 
 media
+db.sqlite3
+
 # example database
 drf_example
